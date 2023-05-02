@@ -1,4 +1,4 @@
-plugins {
+plugins{
     java
     scala
 }
@@ -11,3 +11,4 @@ repositories {
 dependencies {
     implementation("org.scala-lang:scala-library:2.11.12")
 }
+
